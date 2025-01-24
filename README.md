@@ -23,6 +23,11 @@ Expandable: Can integrate with future traffic management or autonomous vehicle s
 🌍 Vision
 The goal is to provide governments, municipalities, and private organizations with a ready-to-implement solution that increases safety for emergency services, drivers, and pedestrians. This system is free to use and modify for the benefit of all communities.
 
-https://pbs.twimg.com/media/D2LNYzCXgAAkbJq?format=jpg&name=large![image](https://github.com/user-attachments/assets/20f7ffcf-4b74-40fe-a29c-b245d17439cd)
+## Concept Diagram
+Below are two visual representations of the Emergency Vehicle Traffic Signal Siren System:
 
-https://files.oaiusercontent.com/file-VipD6UU7AsuiBaPctrv7Fp?se=2025-01-24T01%3A40%3A13Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D20729278-132e-4f65-b131-835c9aabecf5.webp&sig=PMA5neMLrPbh4iHQJ2QgtYtEMoGPcySfOpVvQ%2BowoE0%3D![image](https://github.com/user-attachments/assets/661f5bbd-a3f3-48c6-9c36-b64f86a46d88)
+### Version 1 (Original Concept)
+![Emergency Vehicle Traffic Signal Siren System - Version 1](https://github.com/cryptopoly/Emergency_Vehicle_Traffic_Signal_Siren_System/blob/main/Emergency%20Vehicle%20Traffic%20Signal%20Siren%20System.jpeg)
+
+### Version 2 (Updated with Blue Siren)
+![Emergency Vehicle Traffic Signal Siren System - Version 2](https://github.com/cryptopoly/Emergency_Vehicle_Traffic_Signal_Siren_System/blob/main/Emergency%20Vehicle%20Traffic%20Signal%20Siren%20System%20v2.webp)
