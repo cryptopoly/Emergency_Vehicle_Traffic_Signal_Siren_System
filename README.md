@@ -27,7 +27,7 @@ The goal is to provide governments, municipalities, and private organizations wi
 Below are two visual representations of the Emergency Vehicle Traffic Signal Siren System:
 
 ### Version 1 (Original Concept)
-![Emergency Vehicle Traffic Signal Siren System - Version 1](https://github.com/cryptopoly/Emergency_Vehicle_Traffic_Signal_Siren_System/blob/main/Emergency%20Vehicle%20Traffic%20Signal%20Siren%20System.jpeg)
+![Emergency Vehicle Traffic Signal Siren System - Version 1](https://raw.githubusercontent.com/cryptopoly/Emergency_Vehicle_Traffic_Signal_Siren_System/main/Emergency%20Vehicle%20Traffic%20Signal%20Siren%20System.jpeg)
 
 ### Version 2 (Updated with Blue Siren)
-![Emergency Vehicle Traffic Signal Siren System - Version 2](https://github.com/cryptopoly/Emergency_Vehicle_Traffic_Signal_Siren_System/blob/main/Emergency%20Vehicle%20Traffic%20Signal%20Siren%20System%20v2.webp)
+![Emergency Vehicle Traffic Signal Siren System - Version 2](https://raw.githubusercontent.com/cryptopoly/Emergency_Vehicle_Traffic_Signal_Siren_System/main/Emergency%20Vehicle%20Traffic%20Signal%20Siren%20System%20v2.webp)
